@@ -37,7 +37,7 @@ This is Hotel Reservation DApp, that allows users to be able to make reservation
 
     ```
 
-- Deploy the DAO Frontend Canister
+- Deploy the Frontend Canister
 
     ```bash
     npm run deploy-frontend
