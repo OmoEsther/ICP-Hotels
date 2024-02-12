@@ -24,7 +24,7 @@ This is Hotel Reservation DApp, that allows users to be able to make reservation
     npm run deploy-identity
     ```
 
-- Deploy the DAO Backend Canister
+- Deploy the Backend Canister
 
     ```bash
 	# run with dfx and set the registrationFee in e8s
