@@ -55,13 +55,13 @@ This next step shows how to mint icp tokens from the locally deployed Ledger can
 
 - Copy your dfx address from the wallet on the doc reg frontend by clicking on it.
 
-    ![gettokens](./assets/img/dfxaddress.png)
+    ![gettokens](./img/mint.png)
 
 - Run the mint script.
 
     ```bash
     # npm run mint:tokens <amount in e8s> <dfx address>
-   npm run mint:tokens 500_0000_0000 aa3d50ea7b070d4349eda6ff4b0318c4f896ff4b0318c4f89
+   npm run mint:tokens 5000_0000_0000 4eecc7740bf73f27f68c9f9703adbee7dc41dd1e1a5e316bbff039806550bd79
 
-	# N/B: This mints 500 ICP tokens from the locally deployed ledger to the address.
+	# N/B: This mints 5000 ICP tokens from the locally deployed ledger to the address.
     ```
