@@ -53,7 +53,7 @@ This is Hotel Reservation DApp, that allows users to be able to make reservation
 
 This next step shows how to mint icp tokens from the locally deployed Ledger canister.
 
-- Copy your dfx address from the wallet on the doc reg frontend by clicking on it.
+- Copy your dfx address from the wallet on the doc reg frontend.
 
     ![gettokens](./img/mint.png)
 
